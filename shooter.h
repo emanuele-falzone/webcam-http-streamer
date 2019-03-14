@@ -23,8 +23,7 @@ private:
                                "Max-Age: 0\r\n"
                                "Expires: 0\r\n"
                                "Cache-Control: no-cache, private\r\n"
-                               "Pragma: no-cache\r\n"
-                               "Content-Type: multipart/x-mixed-replace";
+                               "Pragma: no-cache\r\n";
 
     /**
      * @brief HEADER
